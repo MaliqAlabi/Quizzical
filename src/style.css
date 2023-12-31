@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f5f7fb;
+    font-family: sans-serif;
+    color: #293264;
+}
+
+.homePage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.homePage h1{
+    font-size: 5rem;
+    letter-spacing: 5px;
+    margin-bottom: 7px;
+}
+
+.homePage p{
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.homePage button{
+    color: white;
+    background-color: #4d5b9e;;
+    font-weight: bold;
+    padding: 16px 48px;
+    transition: all .3s ease;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.homePage button:hover{
+    background-color: #293264;
+}
