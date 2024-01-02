@@ -1,11 +1,10 @@
-# Tic Tac Toe
+# Quizzical
 ## Features
 A simple quiz app which tests your knowledge on different topics and various difficulties on topics can be selected. It was made using reactJs and the data was fetched from the <a href='https://opentdb.com/api_config.php' target="_blank">opentdb api</a>.
 
 ## Get Started
-- npm install <!-- To install all dependencies -->
-- npm run dev <!-- To run code on localhost -->
-
+- npm install --- To install all dependencies
+- npm run dev --- To run code on localhost
 ## How To Play
 - Select Topic
 - Select difficulty
